@@ -1,32 +1,32 @@
-# DAY 1 - PYTHON CODING QUESTIONS
-# Questions 11 to 20
+
+# DAY 1 - CODING PRACTICE
+# LEVEL 2: INTERMEDIATE
+
+# Q11. Check Prime Number
 
 
-# Q11. Prime number
+# Q12. Fibonacci Series
 
 
-# Q12. Fibonacci series
+# Q13. Armstrong Number
 
 
-# Q13. Armstrong number
+# Q14. Reverse String Without Slicing
 
 
-# Q14. Reverse a string without slicing
+# Q15. Count Vowels and Consonants
 
 
-# Q15. Count vowels and consonants
+# Q16. Find Largest Element Without max()
 
 
-# Q16. Largest element without max()
+# Q17. Find Smallest Element Without min()
 
 
-# Q17. Smallest element without min()
+# Q18. Sum of List Without sum()
 
 
-# Q18. Sum of list without sum()
+# Q19. Count Occurrences of an Element
 
 
-# Q19. Count occurrences
-
-
-# Q20. Remove duplicates
+# Q20. Remove Duplicates from a List
